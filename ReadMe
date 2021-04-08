@@ -1,0 +1,4 @@
+Classe Employee est créée avec 2 subclasses: IT et HR.
+Classe MetaEmployee comprend deux methodes: 
+  - getAllEmployeeDetails: pour lister des detailles de la classe (allSuperclasses, allSelectors ...)
+  - interceptNotUnderstoodMessage: retourner un message text quand la variable/methode appelee n'existe pas.
